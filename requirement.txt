@@ -1,0 +1,7 @@
+selenium
+pytest
+regex
+aiohttp
+asyncio
+beautifulsoup4
+pandas
