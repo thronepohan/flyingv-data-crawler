@@ -1,7 +1,7 @@
 # flyingv-data-crawler
-This project aims to help get data of [flyingV](https://www.flyingv.cc/ "link"), a fundraising website in Taiwan.
+This project aims to help get data of [flyingV](https://www.flyingv.cc/ "link"), a crowdfunding platform in Taiwan.
 
-It's also a simple sample of asynchronous web scraping.
+It's also a sample of asynchronous web scraping.
 
 ## Environment
 * Windows
